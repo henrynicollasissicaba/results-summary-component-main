@@ -151,7 +151,6 @@ body{
   font-weight: var(--fw-800);
   line-height: 1;
   color: var(--clr-neutral-100);
-  padding-bottom: 1rem;
 }
 
 .circle-result p{
